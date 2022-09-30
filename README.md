@@ -84,7 +84,7 @@ npm run watch
 To build once run...
 
 ```bash
-npm run watch
+npm run build
 ```
 You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
 
